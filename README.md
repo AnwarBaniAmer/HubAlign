@@ -1,4 +1,4 @@
-# HubAlign
+# HubAlign using Practical swarm optimization algorithm
 The program HubAlign finds a global alignment between a pair of networks. Given two networks with N and M nodes, it returns min(N,M) pairs, which each pair indicates two aligned nodes from two networks. 
 
 ###########################
